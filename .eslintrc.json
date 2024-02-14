@@ -8,6 +8,7 @@
         "func-names": "off",
         "class-methods-use-this": "off",
         "indent": ["error", 4],
-        "no-undef": "off"
+        "no-undef": "off",
+        "prefer-regex-literals": "off"
     } 
 }

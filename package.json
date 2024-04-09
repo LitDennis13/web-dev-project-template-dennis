@@ -7,6 +7,9 @@
     "prettier-check": "prettier . --check"
   },
   "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
     "css-loader": "^6.10.0",
     "html-webpack-plugin": "^5.6.0",
     "style-loader": "^3.3.4",
